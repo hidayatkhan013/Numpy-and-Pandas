@@ -1,3 +1,4 @@
+## Solution Attached Thumbs up !
 ## Question 1 Numpy. 
 1. Write a NumPy program to create a 3x3x3 ndarray filled with values between 1 and 27. 
 2. Write a NumPy program to compute sum of all elements, sum of each column and sum of each row of a given array 
