@@ -2,12 +2,12 @@
 1. Write a NumPy program to create a 3x3x3 ndarray filled with values between 1 and 27. 
 2. Write a NumPy program to compute sum of all elements, sum of each column and sum of each row of a given array 
 3. Write a NumPy program to create a 2-D array whose diagonal equals [4, 5, 6, 8] and 0's elsewhere.
-4. Write a NumPy program that creates below array with 1 on the border and 0 inside. Example:
-[[1. 1. 1. 1. 1.]
- [1. 0. 0. 0. 1.]
- [1. 0. 0. 0. 1.]
- [1. 0. 0. 0. 1.]
- [1. 1. 1. 1. 1.]]
+4. Write a NumPy program that creates below array with 1 on the border and 0 inside. Example:\
+[[1. 1. 1. 1. 1.]\
+[1. 0. 0. 0. 1.]\
+[1. 0. 0. 0. 1.]\
+[1. 0. 0. 0. 1.]\
+[1. 1. 1. 1. 1.]]
 
 •	Write a program that creates array1 and then write a program that extracts (slice) array2 from array1. 
 
